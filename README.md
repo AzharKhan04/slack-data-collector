@@ -12,10 +12,11 @@ This is the Ready to Use script can be used in any website or web application to
 
    <code> window.slackDataPusher.init(<slack_webhook_url>,"slack-form-contianer") </code>
 
-3) define the container element
-
-   <divv id="slack_webhook_url"></divv>
-
+3) define the container element (div) with id
+    
+   div
+   id="slack_webhook_url"
+   /div
 
 
 
