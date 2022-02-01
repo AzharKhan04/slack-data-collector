@@ -14,7 +14,7 @@ This is the Ready to Use script can be used in any website or web application to
 
 3) define the container element
 
-  <code> <div id="slack_webhook_url"></div> </code>
+   <div id="slack_webhook_url"></div>
 
 
 
